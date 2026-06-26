@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- LAYER 1: Deep Soft Glow (Large width, low opacity blue) -->
+    <path
+        android:pathData="M 43,76 L 43,62 C 43,46 22,46 22,38 C 22,24 49,24 54,34 C 59,24 86,24 86,38 C 86,46 65,46 65,62 L 65,76"
+        android:strokeColor="#1E3B82F6"
+        android:strokeWidth="19"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M 43,50 L 65,50"
+        android:strokeColor="#1E3B82F6"
+        android:strokeWidth="19"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- LAYER 2: Medium Glow (Medium width, medium opacity blue) -->
+    <path
+        android:pathData="M 43,76 L 43,62 C 43,46 22,46 22,38 C 22,24 49,24 54,34 C 59,24 86,24 86,38 C 86,46 65,46 65,62 L 65,76"
+        android:strokeColor="#503B82F6"
+        android:strokeWidth="13"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M 43,50 L 65,50"
+        android:strokeColor="#503B82F6"
+        android:strokeWidth="13"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- LAYER 3: Crisp Pure White Main Letter (Clean, thick white stroke) -->
+    <path
+        android:pathData="M 43,76 L 43,62 C 43,46 22,46 22,38 C 22,24 49,24 54,34 C 59,24 86,24 86,38 C 86,46 65,46 65,62 L 65,76"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="8.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M 43,50 L 65,50"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="8.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- LAYER 4: Inner Core Highlight for glowing glass/material look -->
+    <path
+        android:pathData="M 43,76 L 43,62 C 43,46 22,46 22,38 C 22,24 49,24 54,34 C 59,24 86,24 86,38 C 86,46 65,46 65,62"
+        android:strokeColor="#E2F1FF"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

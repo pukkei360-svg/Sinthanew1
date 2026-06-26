@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924743205565",
+    "project_id": "sintha-409907",
+    "storage_bucket": "sintha-409907.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924743205565:android:2b3156286a8bf66f156dd4",
+        "android_client_info": {
+          "package_name": "sintha.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHcN37flT3oJvXcDM4ZJEnZcJ6xL95Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
